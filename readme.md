@@ -12,5 +12,5 @@
 
 # OF CLAN
 
-barbarian man
-barbie man
+# barbarian man
+# barbie man
